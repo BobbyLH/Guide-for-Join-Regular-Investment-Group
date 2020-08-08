@@ -27,7 +27,7 @@
 
 3. 输入接收到的验证码
 
-    <img src='../assets/mixin-register-3.jpeg' alt='注册Mixin-输入验证码' width='200'/>
+    <img src='../assets/mixin-register-3.png' alt='注册Mixin-输入验证码' width='200'/>
 
 4. 填写 **昵称**，注册成功
 
