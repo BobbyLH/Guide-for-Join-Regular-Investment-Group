@@ -11,11 +11,13 @@
 
 ### 2. [入群必读书籍](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E5%85%A5%E7%BE%A4%E5%BF%85%E8%AF%BB%E4%B9%A6%E7%B1%8D)
 
-### 3. [笑来其他课程](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E7%AC%91%E6%9D%A5%E5%85%B6%E4%BB%96%E8%AF%BE%E7%A8%8B)
+### 3. [笑来其他书籍](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E7%AC%91%E6%9D%A5%E5%85%B6%E4%BB%96%E8%AF%BE%E7%A8%8B)
 
-### 4. [我在行动](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E6%88%91%E5%9C%A8%E8%A1%8C%E5%8A%A8)
+### 4. [笑来其他课程](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E7%AC%91%E6%9D%A5%E5%85%B6%E4%BB%96%E8%AF%BE%E7%A8%8B)
 
-### 5. [联系我](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E8%81%94%E7%B3%BB%E6%88%91)
+### 5. [我在行动](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E6%88%91%E5%9C%A8%E8%A1%8C%E5%8A%A8)
+
+### 6. [联系我](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E8%81%94%E7%B3%BB%E6%88%91)
 
 ## 联系我
 结交新朋友一直是一件很快乐的事情，尤其是我们之间有相同的目标和兴趣的时候。
