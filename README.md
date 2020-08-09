@@ -7,15 +7,15 @@
 
 ## 目录
 
-1. [入群指南](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E5%85%A5%E7%BE%A4%E6%8C%87%E5%8D%97)
+### 1. [入群指南](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E5%85%A5%E7%BE%A4%E6%8C%87%E5%8D%97)
 
-2. [入群必读书籍](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E7%AC%91%E6%9D%A5%E5%BF%85%E8%AF%BB%E4%B9%A6%E7%B1%8D)
+### 2. [入群必读书籍](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E7%AC%91%E6%9D%A5%E5%BF%85%E8%AF%BB%E4%B9%A6%E7%B1%8D)
 
-3. [笑来其他课程](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E7%AC%91%E6%9D%A5%E5%85%B6%E4%BB%96%E8%AF%BE%E7%A8%8B)
+### 3. [笑来其他课程](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E7%AC%91%E6%9D%A5%E5%85%B6%E4%BB%96%E8%AF%BE%E7%A8%8B)
 
-4. [我在行动](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E6%88%91%E5%9C%A8%E8%A1%8C%E5%8A%A8)
+### 4. [我在行动](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E6%88%91%E5%9C%A8%E8%A1%8C%E5%8A%A8)
 
-5. [联系我](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E8%81%94%E7%B3%BB%E6%88%91)
+### 5. [联系我](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E8%81%94%E7%B3%BB%E6%88%91)
 
 ## 联系我
 结交新朋友一直是一件很快乐的事情，尤其是我们之间有相同的目标和兴趣的时候。
@@ -24,10 +24,10 @@
 微信号：`bobby_lh`
 
 二维码：
- <img src='../assets/qrcode_wx.jpeg' alt='微信二维码' width='200'/>
+ <img src='./assets/qrcode_wx.jpeg' alt='微信二维码' width='200'/>
 
 ### Mixin:
 Mixin号：`37354027`
 
 二维码：
- <img src='../assets/qrcode_mixin.jpeg' alt='Mixin二维码' width='200'/>
+ <img src='./assets/qrcode_mixin.jpeg' alt='Mixin二维码' width='200'/>
