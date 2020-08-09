@@ -9,7 +9,7 @@
 
 ### 1. [入群指南](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E5%85%A5%E7%BE%A4%E6%8C%87%E5%8D%97)
 
-### 2. [入群必读书籍](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E7%AC%91%E6%9D%A5%E5%BF%85%E8%AF%BB%E4%B9%A6%E7%B1%8D)
+### 2. [入群必读书籍](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E5%85%A5%E7%BE%A4%E5%BF%85%E8%AF%BB%E4%B9%A6%E7%B1%8D)
 
 ### 3. [笑来其他课程](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E7%AC%91%E6%9D%A5%E5%85%B6%E4%BB%96%E8%AF%BE%E7%A8%8B)
 
