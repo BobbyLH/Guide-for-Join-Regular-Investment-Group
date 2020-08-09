@@ -5,10 +5,12 @@
 微信号：`bobby_lh`
 
 二维码：
+
  <img src='../assets/qrcode_wx.jpeg' alt='微信二维码' width='200'/>
 
 ### Mixin:
 Mixin号：`37354027`
 
 二维码：
+
  <img src='../assets/qrcode_mixin.jpeg' alt='Mixin二维码' width='200'/>

@@ -24,7 +24,7 @@
 5. 所有讲过的课程都有回放记录，有的课程甚至还有开源在github上的资料，比如 [逻辑课](https://github.com/liudawozhemebang/beyond-feelings)、[编程课](https://github.com/neolee/pilot)；
 
 
-## 目录
+## 详情
 - [「BOX践行群」视频介绍](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E5%85%A5%E7%BE%A4%E6%8C%87%E5%8D%97/%E3%80%8CBOX%E8%B7%B5%E8%A1%8C%E7%BE%A4%E3%80%8D%E8%A7%86%E9%A2%91%E4%BB%8B%E7%BB%8D.md)
 
 - [「Mixin」下载和注册](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E5%85%A5%E7%BE%A4%E6%8C%87%E5%8D%97/%E3%80%8CMixin%E3%80%8D%E4%B8%8B%E8%BD%BD%E5%92%8C%E6%B3%A8%E5%86%8C.md)
@@ -44,10 +44,12 @@
 微信号：`bobby_lh`
 
 二维码：
+
  <img src='../assets/qrcode_wx.jpeg' alt='微信二维码' width='200'/>
 
 ### Mixin:
 Mixin号：`37354027`
 
 二维码：
+
  <img src='../assets/qrcode_mixin.jpeg' alt='Mixin二维码' width='200'/>

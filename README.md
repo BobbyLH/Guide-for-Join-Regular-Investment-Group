@@ -5,7 +5,7 @@
 
 **这是地球上第一个，也是唯一一个，拥有 0管理费 和 0开润(抽成) EFT基金的投资社群** —— 没错，就是BOX 定投践行群！
 
-## 目录
+## 导航
 
 ### 1. [入群指南](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E5%85%A5%E7%BE%A4%E6%8C%87%E5%8D%97)
 
@@ -24,10 +24,12 @@
 微信号：`bobby_lh`
 
 二维码：
+
  <img src='./assets/qrcode_wx.jpeg' alt='微信二维码' width='200'/>
 
 ### Mixin:
 Mixin号：`37354027`
 
 二维码：
+
  <img src='./assets/qrcode_mixin.jpeg' alt='Mixin二维码' width='200'/>
