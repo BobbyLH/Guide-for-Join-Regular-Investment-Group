@@ -35,7 +35,7 @@
 
 ### 2. [精彩课程一览](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E7%B2%BE%E5%BD%A9%E8%AF%BE%E7%A8%8B%E4%B8%80%E8%A7%88)
 
-### 3. [笑来书籍推荐](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E7%AC%91%E6%9D%A5%E5%85%B6%E4%BB%96%E4%B9%A6%E7%B1%8D)
+### 3. [笑来书籍推荐](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E7%AC%91%E6%9D%A5%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90)
 
 ### 4. [笑来其他课程](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E7%AC%91%E6%9D%A5%E5%85%B6%E4%BB%96%E8%AF%BE%E7%A8%8B)
 

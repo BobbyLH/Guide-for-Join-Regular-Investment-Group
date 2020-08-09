@@ -1,7 +1,8 @@
-# 入群必读书籍
+# 笑来书籍推荐
 
 笑来老师在区块链世界里已经深耕多年，在创立「BOX」之前，已经穿越过了**4次牛熊**，手中的资产早已增值了**上万倍**！虽然你可以**盲从笑来老师的投资建议**，但你是一个不断成长的人，终有一天你也会成为一个合格的投资者，读书这事，怎么可能少了你？特别是笑来老师的书！
 
+## 书籍目录
 - [《区块链小白书》](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E5%85%A5%E7%BE%A4%E5%BF%85%E8%AF%BB%E4%B9%A6%E7%B1%8D/%E3%80%8A%E5%8C%BA%E5%9D%97%E9%93%BE%E5%B0%8F%E7%99%BD%E4%B9%A6%E3%80%8B.md) - 作者©李笑来
 
 - [《定投改变命运》第一版](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E5%85%A5%E7%BE%A4%E5%BF%85%E8%AF%BB%E4%B9%A6%E7%B1%8D/%E3%80%8A%E5%AE%9A%E6%8A%95%E6%94%B9%E5%8F%98%E5%91%BD%E8%BF%90%E3%80%8B%E7%AC%AC%E4%B8%80%E7%89%88.md) - 作者©李笑来
