@@ -14,7 +14,7 @@
 
 ## 【中央学习区块链】新闻联播
 
-<a href="https://lark-video.oss-cn-hangzhou.aliyuncs.com/outputs/prod/yuque/2020/2319678/mp4/1597805446816-6a874a60-27d2-41b6-b5c4-14dbf9043236.mp4?OSSAccessKeyId=LTAI4GKnqTWmz2X8mzA1Sjbv&Expires=1597812680&Signature=30r72IIIY0VwdQ04peskWdt8G%2Bk%3D" title="【中央学习区块链】新闻联播" target="_blank">
+<a href="https://cloud.video.taobao.com/play/u/2319678/p/1/d/hd/e/6/t/1/276274925748.mp4?auth_key=YXBwX2tleT04MDAwMDAwMTImYXV0aF9pbmZvPXsidGltZXN0YW1wRW5jcnlwdGVkIjoiMTA2NjU5ZGZjNjliYjNlYzI0NjI3OTRlNjczOTYwNGIifSZkdXJhdGlvbj0mdGltZXN0YW1wPTE1OTc4MDU1OTA=" title="【中央学习区块链】新闻联播" target="_blank">
   <img src="../assets/learn-block-chain.png" alt="【中央学习区块链】新闻联播" width="600" />
 </a>
 
