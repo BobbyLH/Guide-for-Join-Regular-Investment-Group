@@ -5,7 +5,7 @@
 ## 书籍目录
 - [《区块链小白书》](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E7%AC%91%E6%9D%A5%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90/%E3%80%8A%E5%8C%BA%E5%9D%97%E9%93%BE%E5%B0%8F%E7%99%BD%E4%B9%A6%E3%80%8B.md) - 作者©李笑来
 
-- [《微信互联网平民创业》](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E7%AC%91%E6%9D%A5%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90/%E3%80%8A%E5%8C%BA%E5%9D%97%E9%93%BE%E5%B0%8F%E7%99%BD%E4%B9%A6%E3%80%8B.md) - 作者©李笑来
+- [《微信互联网平民创业》](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E7%AC%91%E6%9D%A5%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90/%E3%80%8A%E5%BE%AE%E4%BF%A1%E4%BA%92%E8%81%94%E7%BD%91%E5%B9%B3%E6%B0%91%E5%88%9B%E4%B8%9A%E3%80%8B.md) - 作者©李笑来
 
 - [《定投改变命运》第一版](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E7%AC%91%E6%9D%A5%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90/%E3%80%8A%E5%AE%9A%E6%8A%95%E6%94%B9%E5%8F%98%E5%91%BD%E8%BF%90%E3%80%8B%E7%AC%AC%E4%B8%80%E7%89%88.md) - 作者©李笑来
 

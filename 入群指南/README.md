@@ -13,7 +13,7 @@
 
 - [「BOX」成分简介](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E5%85%A5%E7%BE%A4%E6%8C%87%E5%8D%97/%E3%80%8CBOX%E3%80%8D%E6%88%90%E5%88%86%E7%AE%80%E4%BB%8B.md)
 
-- [我是谁](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E5%85%A5%E7%BE%A4%E6%8C%87%E5%8D%97/%E3%80%8CBOX%E3%80%8D%E6%88%90%E5%88%86%E7%AE%80%E4%BB%8B.md)
+- [我是谁](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E5%85%A5%E7%BE%A4%E6%8C%87%E5%8D%97/%E6%88%91%E6%98%AF%E8%B0%81.md)
 
 ## 联系我
 结交新朋友一直是一件很快乐的事情，尤其是我们之间有相同的目标和兴趣的时候。
