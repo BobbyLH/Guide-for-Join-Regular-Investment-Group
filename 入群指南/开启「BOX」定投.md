@@ -4,7 +4,7 @@
 使用步骤具体如下：
 
 ## 步骤1 - 开小钱包
-1. 先用 **Mixin** 扫描下面这个二维码打开小钱包：
+1. 先用「新生大讲堂」扫描下面这个二维码打开小钱包：
 
   <img src='../assets/qrcode-foxone.png' alt='foxone二维码' width='200'/>
 
