@@ -3,7 +3,7 @@
 ## 导航
 - [「BOX定投践行群」视频介绍](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E5%85%A5%E7%BE%A4%E6%8C%87%E5%8D%97/%E3%80%8CBOX%E8%B7%B5%E8%A1%8C%E7%BE%A4%E3%80%8D%E8%A7%86%E9%A2%91%E4%BB%8B%E7%BB%8D.md)
 
-- [「新生大讲堂」下载和注册](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E5%85%A5%E7%BE%A4%E6%8C%87%E5%8D%97/%E3%80%8CMixin%E3%80%8D%E4%B8%8B%E8%BD%BD%E5%92%8C%E6%B3%A8%E5%86%8C.md)
+- [「新生大讲堂」下载和注册](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E5%85%A5%E7%BE%A4%E6%8C%87%E5%8D%97/%E3%80%8C%E6%96%B0%E7%94%9F%E5%A4%A7%E8%AE%B2%E5%A0%82%E3%80%8D%E4%B8%8B%E8%BD%BD%E5%92%8C%E6%B3%A8%E5%86%8C.md)
 
 - [加入「BOX定投践行群」](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E5%85%A5%E7%BE%A4%E6%8C%87%E5%8D%97/%E5%8A%A0%E5%85%A5%E3%80%8CBOX%E8%B7%B5%E8%A1%8C%E7%BE%A4%E3%80%8D.md)
 
