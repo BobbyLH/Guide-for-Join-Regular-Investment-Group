@@ -33,7 +33,7 @@
 
 ### 1. [入群指南](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E5%85%A5%E7%BE%A4%E6%8C%87%E5%8D%97)
 
-### 2. [好礼相赠](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E7%B2%BE%E5%BD%A9%E8%AF%BE%E7%A8%8B%E4%B8%80%E8%A7%88)
+### 2. [好礼相赠](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E5%A5%BD%E7%A4%BC%E7%9B%B8%E8%B5%A0)
 
 ### 3. [笑来书籍推荐](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/tree/master/%E7%AC%91%E6%9D%A5%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90)
 

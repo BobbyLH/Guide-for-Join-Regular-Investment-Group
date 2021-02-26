@@ -11,7 +11,7 @@
 
 5. [「BOX」成分简介](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E5%85%A5%E7%BE%A4%E6%8C%87%E5%8D%97/%E3%80%8CBOX%E3%80%8D%E6%88%90%E5%88%86%E7%AE%80%E4%BB%8B.md)
 
-6. [精彩课程一览（持续更新中）](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E5%85%A5%E7%BE%A4%E6%8C%87%E5%8D%97/%E3%80%8CBOX%E3%80%8D%E6%88%90%E5%88%86%E7%AE%80%E4%BB%8B.md)
+6. [精彩课程一览（持续更新中）](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E5%85%A5%E7%BE%A4%E6%8C%87%E5%8D%97/%E7%B2%BE%E5%BD%A9%E8%AF%BE%E7%A8%8B%E4%B8%80%E8%A7%88%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%E4%B8%AD%EF%BC%89.md)
 
 7. [我是谁](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E5%85%A5%E7%BE%A4%E6%8C%87%E5%8D%97/%E6%88%91%E6%98%AF%E8%B0%81.md)
 
