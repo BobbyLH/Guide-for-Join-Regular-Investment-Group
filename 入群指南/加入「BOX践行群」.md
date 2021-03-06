@@ -3,12 +3,12 @@
 ## 步骤1
 在「新生大讲堂」首页右上角 **搜索框** 输入 `7000102069`，点击【**+添加机器人(Add Bot)**】，然后点击 **对话框**
 
-  <img src='../assets/joinbox-0.jpg' alt='加入BOX践行群之搜索机器人' width='400'/>
+  <img src='../assets/joinbox-0.jpg' alt='加入BOX践行群之搜索机器人' width='600'/>
 
 ## 步骤2
 点击【**加入群组**】，在弹出的欢迎页中，点击【**登陆(Login)**】，而后再点击【**授权(Authorize)**】
 
-  <img src='../assets/joinbox-1.jpg' alt='加入BOX践行群之加入群组' width='400'/>
+  <img src='../assets/joinbox-1.jpg' alt='加入BOX践行群之加入群组' width='600'/>
 
 ## 步骤3
 👇 长按复制输入邀请码到输入框后，点击【**使用(Apply)**】，请使用下面的邀请码
@@ -17,6 +17,6 @@
 
 点击【**加入群组(Join Group)**】，而后选择支付方式(推荐微信支付)，点击【**支付(Pay)**】，在弹出的确认框中，点击【**打开(Open)**】，进入到微信支付页面，确认付款即可入群
 
-  <img src='../assets/joinbox-2.jpg' alt='加入BOX践行群之使用邀请码' width='400'/>
+  <img src='../assets/joinbox-2.jpg' alt='加入BOX践行群之使用邀请码' width='600'/>
 
 > 如果你有足够群费的比特币，点击下方的【**支付**】，输入6位支付密码，即可入群

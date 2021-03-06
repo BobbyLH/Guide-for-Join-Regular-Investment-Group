@@ -7,7 +7,7 @@
 
 总结一下，「BOX 定投践行群」就是：
 
-- 由[李笑来]([https://zh.wikipedia.org/wiki/%E6%9D%8E%E7%AC%91%E6%9D%A5](https://zh.wikipedia.org/wiki/李笑来))发起，汇聚超过 `5500` 名成员的投资社群；
+- 由[李笑来]([https://zh.wikipedia.org/wiki/%E6%9D%8E%E7%AC%91%E6%9D%A5](https://zh.wikipedia.org/wiki/李笑来))发起，汇聚超过 `10000` 名成员的投资社群；
 
 - 这是世界上第一个，也是唯一一个拥有 **社群基金** 的投资社群；
 
